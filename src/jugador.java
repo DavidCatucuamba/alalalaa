@@ -13,6 +13,7 @@ public class jugador {
     public void imprimir(){
         System.out.println("El nombre del jugador es: "+nombre);
         System.out.println("Su dorsal es: "+numero);
+        System.out.println("esTO AGREGAREEEEEE");
     }
 
 }
